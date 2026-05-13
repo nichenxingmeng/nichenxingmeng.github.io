@@ -31,7 +31,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 # 📝 Publications 
 
-# 🎖️ Honors and Awards
+# 🎖&#xFE0F; Honors and Awards
 
 # 📖 Educations
 - *2022.09 - 2025.07*, Master of Computer Technology, University of Chinese Academy of Sciences.
