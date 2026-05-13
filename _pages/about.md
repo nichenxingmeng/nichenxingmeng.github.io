@@ -51,4 +51,4 @@ I am a first-year PhD student at [INSAIT](https://insait.ai/), supervised by [Pr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2025.05*, ByteDance Inc., Beijing, China.
