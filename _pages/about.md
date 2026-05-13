@@ -32,6 +32,9 @@ My research focuses on **low-level vision**, including image/video generation, s
 # 📝 Publications 
 
 # 🎖️ Honors and Awards
+- Excellent Student Scholarship of Tongji University, 2019, 2020, 2021.
+- Outstanding Student Scholarship of University of Chinese Academy of Sciences, 2022.
+- National Scholarship, 2024.
 
 # 📖 Educations
 - Master of Computer Technology, University of Chinese Academy of Sciences, *2022.09 - 2025.07*.
@@ -40,4 +43,4 @@ My research focuses on **low-level vision**, including image/video generation, s
 # 💬 Invited Talks
 
 # 💻 Internships
-- *2023.09 - 2025.05*, ByteDance Inc.
+- ByteDance Inc., *2023.09 - 2025.05*.
