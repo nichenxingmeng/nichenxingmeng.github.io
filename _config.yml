@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hongyu An"
-description              : "A first year PhD student ath INSAIT. "
+# description              : "A first year PhD student ath INSAIT. "
 repository               : "nichenxingmeng/nichenxingmeng.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "nichenxingmeng"
   google_plus      :
   keybase          :
   instagram        :
