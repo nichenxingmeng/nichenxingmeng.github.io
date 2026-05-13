@@ -34,8 +34,8 @@ My research focuses on **low-level vision**, including image/video generation, s
 # 🎖️ Honors and Awards
 
 # 📖 Educations
-- *2022.09 - 2025.07*, Master of Computer Technology, University of Chinese Academy of Sciences.
-- *2018.09 - 2022.07*, Bachelor of Engineering in Mechanical Design, Manufacture, and its Automation, Tongji University.
+- Master of Computer Technology, University of Chinese Academy of Sciences, *2022.09 - 2025.07*.
+- Bachelor of Engineering in Mechanical Design, Manufacture, and its Automation, Tongji University, *2018.09 - 2022.07*.
 
 # 💬 Invited Talks
 
