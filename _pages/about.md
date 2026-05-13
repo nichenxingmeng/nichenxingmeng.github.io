@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student at [INSAIT](https://insait.ai/), supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Jinjin Gu](https://www.jasongt.com/). My research focuses on **low-level vision**, including image/video super-resolution, restoration, and generation. Previously, I received my M.S. in Computer Technology from the [University of Chinese Academy of Sciences (UCAS)] in 2025, and my B.E. in Mechanical Design, Manufacture, and Automation from [Tongji University] in 2022.
+I am a first-year PhD student at [Institute for Computer Science, Artificial Intelligence and Technology (INSAIT)](https://insait.ai/), advised by [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and [Dr. Jinjin Gu](https://www.jasongt.com/). Previously, I received my M.S. in Computer Technology from the University of Chinese Academy of Sciences (UCAS) in 2025, advised by [Prof. Xinfeng Zhang][https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en](https://people.ucas.ac.cn/~csxfzhang) and work closely with [Prof. Ruiqin Xiong]([https://www.linkedin.com/in/shijie-zhao-bb017a110/](https://scholar.google.com/citations?user=46Rur-YAAAAJ&hl=en)), Peking University. I was also fortunate to supervised by [Dr. Li Zhang]([https://www.jasongt.com/](https://scholar.google.com/citations?user=8G5-2OMAAAAJ&hl=en) and work closely with [Dr. Shijie Zhao]([https://www.jasongt.com/](https://www.linkedin.com/in/shijie-zhao-bb017a110/)) at ByteDance Inc. my B.E. in Mechanical Design, Manufacture, and Automation from Tongji University in 2022.
+
+My research focuses on **low-level vision**, including image/video generation, super-resolution, and restoration.
 
 
 # 🔥 News
