@@ -45,4 +45,5 @@ My research focuses on **low-level vision**, including image/video generation, s
 -->
 
 # 💻 Internships
+- XPixel Group, SIAT, CAS, *2025.06 - 2026.01*.
 - ByteDance Inc., *2023.09 - 2025.05*.
