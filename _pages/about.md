@@ -32,6 +32,8 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 # 📝 Publications 
 
+### First-author
+
 - **D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution**
   <br>
   **Hongyu An**, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
@@ -39,6 +41,34 @@ My research focuses on **low-level vision**, including image/video generation, s
   *arXiv preprint arXiv:2606.29314*, 2026
   <br>
   [[Paper]](https://arxiv.org/abs/2606.29314) [[Code]](https://github.com/nichenxingmeng/D2R2OSR)
+
+- **Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**
+  <br>
+  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
+  <br>
+  **AAAI Conference on Artificial Intelligence (AAAI)**, 2026
+  <br>
+  [[Paper]](https://arxiv.org/abs/2410.11506) [[Code]](https://github.com/nichenxingmeng/STDAN)
+
+- **Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**
+  <br>
+  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
+  <br>
+  *arXiv preprint arXiv:2502.07381*, 2025
+
+- **FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution**
+  <br>
+  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang
+  <br>
+  *ACM International Conference on Multimedia in Asia (MMAsia)*, 2024
+
+- **Perception-Oriented Omnidirectional Image Super-Resolution Based on Transformer Network**
+  <br>
+  **Hongyu An**, Xinfeng Zhang
+  <br>
+  *IEEE International Conference on Image Processing (ICIP)*, 2023
+
+### Co-authored
 
 - **SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization**
   <br>
@@ -58,20 +88,6 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   *arXiv preprint arXiv:2603.00643*, 2026
 
-- **Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**
-  <br>
-  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
-  <br>
-  **AAAI Conference on Artificial Intelligence (AAAI)**, 2026
-  <br>
-  [[Paper]](https://arxiv.org/abs/2410.11506) [[Code]](https://github.com/nichenxingmeng/STDAN)
-
-- **Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**
-  <br>
-  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
-  <br>
-  *arXiv preprint arXiv:2502.07381*, 2025
-
 - **Expanded SPAN for Efficient Super-Resolution**
   <br>
   Qiaowanni Wang, Yiyang Wang, **Hongyu An**, Yang Liu, Li Zhang, Shijie Zhao
@@ -84,12 +100,6 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   *Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)*, 2025
 
-- **FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution**
-  <br>
-  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang
-  <br>
-  *ACM International Conference on Multimedia in Asia (MMAsia)*, 2024
-
 - **NTIRE 2024 Challenge on Blind Enhancement of Compressed Image: Methods and Results**
   <br>
   Ren Yang, Radu Timofte, Bin Li, Xin Li, Mingxi Guo, Shijie Zhao, Li Zhang, Zhengxue Cheng, *et al.* (incl. **Hongyu An**)
@@ -101,12 +111,6 @@ My research focuses on **low-level vision**, including image/video generation, s
   Longguang Wang, Yulan Guo, Yingqian Wang, Juncheng Li, Shuhang Gu, Radu Timofte, *et al.* (incl. **Hongyu An**)
   <br>
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Workshop)*, 2023
-
-- **Perception-Oriented Omnidirectional Image Super-Resolution Based on Transformer Network**
-  <br>
-  **Hongyu An**, Xinfeng Zhang
-  <br>
-  *IEEE International Conference on Image Processing (ICIP)*, 2023
 
 # 🎖️ Honors and Awards
 - Excellent Student Scholarship of Tongji University, 2019, 2020, 2021.
