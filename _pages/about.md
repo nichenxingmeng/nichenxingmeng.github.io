@@ -34,7 +34,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 - **D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution**
   <br>
-  <u>**Hongyu An**</u>, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
+  **Hongyu An**, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
   <br>
   *arXiv preprint arXiv:2606.29314*, 2026
   <br>
@@ -42,7 +42,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 - **Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**
   <br>
-  <u>**Hongyu An**</u>, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
+  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
   <br>
   **AAAI Conference on Artificial Intelligence (AAAI)**, 2026
   <br>
