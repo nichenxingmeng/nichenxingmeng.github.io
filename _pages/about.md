@@ -28,8 +28,25 @@ My research focuses on **low-level vision**, including image/video generation, s
 </div>
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 One paper on omnidirectional video super-resolution is accepted by **AAAI 2026**.
 
 # 📝 Publications 
+
+- **D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution**
+  <br>
+  <u>**Hongyu An**</u>, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
+  <br>
+  *arXiv preprint arXiv:2606.29314*, 2026
+  <br>
+  [[Paper]](https://arxiv.org/abs/2606.29314) [[Code]](https://github.com/nichenxingmeng/D2R2OSR)
+
+- **Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**
+  <br>
+  <u>**Hongyu An**</u>, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
+  <br>
+  **AAAI Conference on Artificial Intelligence (AAAI)**, 2026
+  <br>
+  [[Code]](https://github.com/nichenxingmeng/STDAN)
 
 # 🎖️ Honors and Awards
 - Excellent Student Scholarship of Tongji University, 2019, 2020, 2021.
