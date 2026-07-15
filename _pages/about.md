@@ -46,7 +46,7 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   **AAAI Conference on Artificial Intelligence (AAAI)**, 2026
   <br>
-  [[Code]](https://github.com/nichenxingmeng/STDAN)
+  [[Paper]](https://arxiv.org/abs/2410.11506) [[Code]](https://github.com/nichenxingmeng/STDAN)
 
 # 🎖️ Honors and Awards
 - Excellent Student Scholarship of Tongji University, 2019, 2020, 2021.
