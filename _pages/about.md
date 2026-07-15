@@ -32,8 +32,6 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 # 📝 Publications 
 
-### First-author
-
 - **D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution**
   <br>
   **Hongyu An**, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
@@ -68,7 +66,7 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   *IEEE International Conference on Image Processing (ICIP)*, 2023
 
-### Co-authored
+---
 
 - **SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization**
   <br>
