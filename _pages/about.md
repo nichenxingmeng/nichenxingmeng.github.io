@@ -57,10 +57,6 @@ My research focuses on **low-level vision**, including image/video generation, s
 - Bachelor of Engineering in Mechanical Design, Manufacture, and its Automation, Tongji University, *2018.09 - 2022.07*.
 - Master of Computer Technology, University of Chinese Academy of Sciences, *2022.09 - 2025.07*.
 
-<!--
-# 💬 Invited Talks
--->
-
 # 💻 Internships
 - ByteDance Inc., *2023.09 - 2025.05*.
 - XPixel Group, SIAT, CAS, *2025.06 - 2026.01*.
