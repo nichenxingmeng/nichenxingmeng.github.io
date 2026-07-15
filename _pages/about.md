@@ -40,6 +40,24 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   [[Paper]](https://arxiv.org/abs/2606.29314) [[Code]](https://github.com/nichenxingmeng/D2R2OSR)
 
+- **SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization**
+  <br>
+  Guangqi Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
+  <br>
+  *IEEE Transactions on Multimedia*, 2026
+
+- **Enhancing Diagnostic Safety with Low Iodine, Low Radiation CTPA Classification Using Deep Learning**
+  <br>
+  Meixiang Hong, Tianhang Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
+  <br>
+  *Scientific Reports*, 2026
+
+- **Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered**
+  <br>
+  Jinjin Hu, Fanghua Yu, Zheyuan You, Xin Yin, **Hongyu An**, Xiangyu Lin, Chao Dong, Jinjin Gu
+  <br>
+  *arXiv preprint arXiv:2603.00643*, 2026
+
 - **Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**
   <br>
   **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
@@ -47,6 +65,48 @@ My research focuses on **low-level vision**, including image/video generation, s
   **AAAI Conference on Artificial Intelligence (AAAI)**, 2026
   <br>
   [[Paper]](https://arxiv.org/abs/2410.11506) [[Code]](https://github.com/nichenxingmeng/STDAN)
+
+- **Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**
+  <br>
+  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
+  <br>
+  *arXiv preprint arXiv:2502.07381*, 2025
+
+- **Expanded SPAN for Efficient Super-Resolution**
+  <br>
+  Qiaowanni Wang, Yiyang Wang, **Hongyu An**, Yang Liu, Li Zhang, Shijie Zhao
+  <br>
+  *Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)*, 2025
+
+- **The Tenth NTIRE 2025 Efficient Super-Resolution Challenge Report**
+  <br>
+  Bin Ren, Hang Guo, Long Sun, Zongwei Wu, Radu Timofte, Yawei Li, *et al.* (incl. **Hongyu An**)
+  <br>
+  *Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)*, 2025
+
+- **FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution**
+  <br>
+  **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang
+  <br>
+  *ACM International Conference on Multimedia in Asia (MMAsia)*, 2024
+
+- **NTIRE 2024 Challenge on Blind Enhancement of Compressed Image: Methods and Results**
+  <br>
+  Ren Yang, Radu Timofte, Bin Li, Xin Li, Mingxi Guo, Shijie Zhao, Li Zhang, Zhengxue Cheng, *et al.* (incl. **Hongyu An**)
+  <br>
+  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Workshop)*, 2024
+
+- **NTIRE 2023 Challenge on Stereo Image Super-Resolution: Methods and Results**
+  <br>
+  Longguang Wang, Yulan Guo, Yingqian Wang, Juncheng Li, Shuhang Gu, Radu Timofte, *et al.* (incl. **Hongyu An**)
+  <br>
+  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Workshop)*, 2023
+
+- **Perception-Oriented Omnidirectional Image Super-Resolution Based on Transformer Network**
+  <br>
+  **Hongyu An**, Xinfeng Zhang
+  <br>
+  *IEEE International Conference on Image Processing (ICIP)*, 2023
 
 # 🎖️ Honors and Awards
 - Excellent Student Scholarship of Tongji University, 2019, 2020, 2021.
