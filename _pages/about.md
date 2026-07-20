@@ -84,7 +84,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 </tr>
 
 <tr>
-<td width="180" style="vertical-align:top;"></td>
+<td width="180" style="vertical-align:middle; padding:6px 10px 6px 0;"><img src="images/publications/pub_icip.png" style="width:170px; height:90px; object-fit:contain;"></td>
 <td style="vertical-align:top;" markdown="1">
 **Perception-Oriented Omnidirectional Image Super-Resolution Based on Transformer Network**
 <br>
