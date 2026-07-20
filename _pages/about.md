@@ -53,7 +53,7 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
   <br>
-  **arXiv preprint arXiv:2502.07381**, 2025
+  *arXiv preprint arXiv:2502.07381*, 2025
 
 - **FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution**
   <br>
@@ -85,7 +85,7 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   Jinjin Hu, Fanghua Yu, Zheyuan You, Xin Yin, **Hongyu An**, Xiangyu Lin, Chao Dong, Jinjin Gu
   <br>
-  **arXiv preprint arXiv:2603.00643**, 2026
+  *arXiv preprint arXiv:2603.00643*, 2026
 
 - **Expanded SPAN for Efficient Super-Resolution**
   <br>
