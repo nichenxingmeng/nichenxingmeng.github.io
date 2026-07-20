@@ -98,33 +98,33 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 <table style="border:none; border-collapse:collapse;">
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_sanr.png" width="170"></td>
+<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
 **[SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization](https://arxiv.org/abs/2510.15775)**
 <br>
-Guangqi Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
+Gai Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
 <br>
 *IEEE Transactions on Multimedia*, 2026
 </td>
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_ctpa.png" width="170"></td>
+<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
 **[Enhancing Diagnostic Safety with Low Iodine, Low Radiation CTPA Classification Using Deep Learning](https://www.nature.com/articles/s41598-026-38223-1)**
 <br>
-Meixiang Hong, Tianhang Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
+Mingyao Hong, Tao Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
 <br>
 *Scientific Reports*, 2026
 </td>
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_position.png" width="170"></td>
+<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
 **[Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered](https://arxiv.org/abs/2603.00643)**
 <br>
-Jinjin Hu, Fanghua Yu, Zheyuan You, Xin Yin, **Hongyu An**, Xiangyu Lin, Chao Dong, Jinjin Gu
+Jinfan Hu, Fanghua Yu, Zhiyuan You, Xiang Yin, **Hongyu An**, Xinqi Lin, Chao Dong, Jinjin Gu
 <br>
 *arXiv preprint arXiv:2603.00643*, 2026
 </td>
@@ -135,7 +135,7 @@ Jinjin Hu, Fanghua Yu, Zheyuan You, Xin Yin, **Hongyu An**, Xiangyu Lin, Chao Do
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
 **Expanded SPAN for Efficient Super-Resolution**
 <br>
-Qiaowanni Wang, Yiyang Wang, **Hongyu An**, Yang Liu, Li Zhang, Shijie Zhao
+Qing Wang, Yang Wang, **Hongyu An**, Yi Liu, Liou Zhang, Shijie Zhao
 <br>
 *Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)*, 2025
 </td>
