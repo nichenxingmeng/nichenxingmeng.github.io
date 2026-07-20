@@ -127,8 +127,8 @@ Qing Wang, Yang Wang, **Hongyu An**, Yi Liu, Liou Zhang, Shijie Zhao
 </div>
 
 # 🏆 Competitions
-- CVPR Workshops &amp; NTIRE 2024 Challenge on Image Super-Resolution (×4), **3rd**.
-- CVPR Workshops &amp; NTIRE 2025 Challenge on Efficient Super-Resolution runtime sub-track, **3rd**.
+- CVPR Workshops and NTIRE 2024 Challenge on Image Super-Resolution (×4), **3rd**.
+- CVPR Workshops and NTIRE 2025 Challenge on Efficient Super-Resolution runtime sub-track, **3rd**.
 
 # 🎖️ Honors and Awards
 - Excellent Student Scholarship of Tongji University, 2019, 2020, 2021.
