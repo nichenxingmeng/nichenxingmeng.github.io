@@ -43,7 +43,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 <br>
 *European Conference on Computer Vision (ECCV)*, 2026
 <br>
-[**Code** ![](https://img.shields.io/github/stars/nichenxingmeng/D2R2OSR?style=social)](https://github.com/nichenxingmeng/D2R2OSR)
+[**Paper**](https://arxiv.org/abs/2606.29314) | [**Code**](https://github.com/nichenxingmeng/D2R2OSR)
 </td>
 </tr>
 
@@ -56,7 +56,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 <br>
 *AAAI Conference on Artificial Intelligence (AAAI)*, 2026
 <br>
-[**Code** ![](https://img.shields.io/github/stars/nichenxingmeng/STDAN?style=social)](https://github.com/nichenxingmeng/STDAN)
+[**Paper**](https://arxiv.org/abs/2410.11506) | [**Code**](https://github.com/nichenxingmeng/STDAN)
 </td>
 </tr>
 
