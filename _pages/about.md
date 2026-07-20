@@ -35,50 +35,46 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 <table style="border:none; border-collapse:collapse;">
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_d2r2osr.png" style="width:170px; height:120px; object-fit:contain;"></td>
+<td width="180" style="border:none; vertical-align:middle; padding:10px 0;"><img src="images/publications/pub_d2r2osr.png" style="width:170px; height:120px; object-fit:contain;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
-**[D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution](https://arxiv.org/abs/2606.29314)**
+**D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution**
 <br>
 **Hongyu An**, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
 <br>
-*European Conference on Computer Vision (ECCV)*, 2026
-<br>
-[**Paper**](https://arxiv.org/abs/2606.29314) | [**Code**](https://github.com/nichenxingmeng/D2R2OSR)
+*European Conference on Computer Vision (ECCV)*, 2026 · [**Paper**](https://arxiv.org/abs/2606.29314) | [**Code**](https://github.com/nichenxingmeng/D2R2OSR)
 </td>
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_stdan.png" style="width:170px; height:120px; object-fit:contain;"></td>
+<td width="180" style="border:none; vertical-align:middle; padding:10px 0;"><img src="images/publications/pub_stdan.png" style="width:170px; height:120px; object-fit:contain;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
-**[Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution](https://arxiv.org/abs/2410.11506)**
+**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**
 <br>
 **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
 <br>
-*AAAI Conference on Artificial Intelligence (AAAI)*, 2026
-<br>
-[**Paper**](https://arxiv.org/abs/2410.11506) | [**Code**](https://github.com/nichenxingmeng/STDAN)
+*AAAI Conference on Artificial Intelligence (AAAI)*, 2026 · [**Paper**](https://arxiv.org/abs/2410.11506) | [**Code**](https://github.com/nichenxingmeng/STDAN)
 </td>
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_sdatc.png" style="width:170px; height:120px; object-fit:contain;"></td>
+<td width="180" style="border:none; vertical-align:middle; padding:10px 0;"><img src="images/publications/pub_sdatc.png" style="width:170px; height:120px; object-fit:contain;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
-**[Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution](https://arxiv.org/abs/2502.07381)**
+**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**
 <br>
 **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
 <br>
-*arXiv preprint arXiv:2502.07381*, 2025
+*arXiv preprint arXiv:2502.07381*, 2025 · [**Paper**](https://arxiv.org/abs/2502.07381)
 </td>
 </tr>
 
 <tr>
 <td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
-**[FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution](https://dl.acm.org/doi/full/10.1145/3696409.3700232)**
+**FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution**
 <br>
 **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang
 <br>
-*ACM International Conference on Multimedia in Asia (MMAsia)*, 2024
+*ACM International Conference on Multimedia in Asia (MMAsia)*, 2024 · [**Paper**](https://dl.acm.org/doi/full/10.1145/3696409.3700232)
 </td>
 </tr>
 
@@ -89,7 +85,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 <br>
 **Hongyu An**, Xinfeng Zhang
 <br>
-*IEEE International Conference on Image Processing (ICIP)*, 2023
+*IEEE International Conference on Image Processing (ICIP)*, 2023 · [**Paper**](https://ieeexplore.ieee.org/document/10222760)
 </td>
 </tr>
 </table>
@@ -100,33 +96,33 @@ My research focuses on **low-level vision**, including image/video generation, s
 <tr>
 <td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
-**[SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization](https://arxiv.org/abs/2510.15775)**
+**SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization**
 <br>
 Gai Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
 <br>
-*IEEE Transactions on Multimedia*, 2026
+*IEEE Transactions on Multimedia*, 2026 · [**Paper**](https://arxiv.org/abs/2510.15775)
 </td>
 </tr>
 
 <tr>
 <td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
-**[Enhancing Diagnostic Safety with Low Iodine, Low Radiation CTPA Classification Using Deep Learning](https://www.nature.com/articles/s41598-026-38223-1)**
+**Enhancing Diagnostic Safety with Low Iodine, Low Radiation CTPA Classification Using Deep Learning**
 <br>
 Mingyao Hong, Tao Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
 <br>
-*Scientific Reports*, 2026
+*Scientific Reports*, 2026 · [**Paper**](https://www.nature.com/articles/s41598-026-38223-1)
 </td>
 </tr>
 
 <tr>
 <td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
-**[Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered](https://arxiv.org/abs/2603.00643)**
+**Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered**
 <br>
 Jinfan Hu, Fanghua Yu, Zhiyuan You, Xiang Yin, **Hongyu An**, Xinqi Lin, Chao Dong, Jinjin Gu
 <br>
-*arXiv preprint arXiv:2603.00643*, 2026
+*arXiv preprint arXiv:2603.00643*, 2026 · [**Paper**](https://arxiv.org/abs/2603.00643)
 </td>
 </tr>
 
@@ -137,7 +133,7 @@ Jinfan Hu, Fanghua Yu, Zhiyuan You, Xiang Yin, **Hongyu An**, Xinqi Lin, Chao Do
 <br>
 Qing Wang, Yang Wang, **Hongyu An**, Yi Liu, Liou Zhang, Shijie Zhao
 <br>
-*Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)*, 2025
+*Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)*, 2025 · [**Paper**](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Wang_Expanded_SPAN_for_Efficient_Super-Resolution_CVPRW_2025_paper.html)
 </td>
 </tr>
 </table>
