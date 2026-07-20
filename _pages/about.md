@@ -37,7 +37,7 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   **Hongyu An**, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
   <br>
-  **European Conference on Computer Vision (ECCV)**, 2026
+  *European Conference on Computer Vision (ECCV)*, 2026
   <br>
   [[Paper]](https://arxiv.org/abs/2606.29314) [[Code]](https://github.com/nichenxingmeng/D2R2OSR)
 
@@ -45,7 +45,7 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
   <br>
-  **AAAI Conference on Artificial Intelligence (AAAI)**, 2026
+  *AAAI Conference on Artificial Intelligence (AAAI)*, 2026
   <br>
   [[Paper]](https://arxiv.org/abs/2410.11506) [[Code]](https://github.com/nichenxingmeng/STDAN)
 
@@ -59,13 +59,13 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang
   <br>
-  **ACM International Conference on Multimedia in Asia (MMAsia)**, 2024
+  *ACM International Conference on Multimedia in Asia (MMAsia)*, 2024
 
 - **Perception-Oriented Omnidirectional Image Super-Resolution Based on Transformer Network**
   <br>
   **Hongyu An**, Xinfeng Zhang
   <br>
-  **IEEE International Conference on Image Processing (ICIP)**, 2023
+  *IEEE International Conference on Image Processing (ICIP)*, 2023
 
 ---
 
@@ -73,13 +73,13 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   Guangqi Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
   <br>
-  **IEEE Transactions on Multimedia**, 2026
+  *IEEE Transactions on Multimedia*, 2026
 
 - **Enhancing Diagnostic Safety with Low Iodine, Low Radiation CTPA Classification Using Deep Learning**
   <br>
   Meixiang Hong, Tianhang Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
   <br>
-  **Scientific Reports**, 2026
+  *Scientific Reports*, 2026
 
 - **Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered**
   <br>
@@ -91,7 +91,7 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   Qiaowanni Wang, Yiyang Wang, **Hongyu An**, Yang Liu, Li Zhang, Shijie Zhao
   <br>
-  **Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)**, 2025
+  *Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)*, 2025
 
 # 🏆 Competitions
 - CVPR Workshops & NTIRE 2024 Challenge on Image Super-Resolution (×4), **3rd**.
