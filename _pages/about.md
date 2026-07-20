@@ -33,10 +33,15 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 # 📝 Publications 
 
-<table style="border:none; border-collapse:collapse;">
+<style>
+.pub-table td { border: none; padding: 6px 10px; }
+.pub-table td p { margin: 0; }
+</style>
+
+<table class="pub-table" style="border-collapse:collapse;">
 <tr>
-<td width="180" style="border:none; vertical-align:middle; padding:10px 0;"><img src="images/publications/pub_d2r2osr.png" style="width:170px; height:120px; object-fit:contain;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:middle; padding:6px 10px 6px 0;"><img src="images/publications/pub_d2r2osr.png" style="width:170px; height:120px; object-fit:contain;"></td>
+<td style="vertical-align:top;" markdown="1">
 **D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution**
 <br>
 **Hongyu An**, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
@@ -46,8 +51,8 @@ My research focuses on **low-level vision**, including image/video generation, s
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:middle; padding:10px 0;"><img src="images/publications/pub_stdan.png" style="width:170px; height:120px; object-fit:contain;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:middle; padding:6px 10px 6px 0;"><img src="images/publications/pub_stdan.png" style="width:170px; height:120px; object-fit:contain;"></td>
+<td style="vertical-align:top;" markdown="1">
 **Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**
 <br>
 **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
@@ -57,8 +62,8 @@ My research focuses on **low-level vision**, including image/video generation, s
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:middle; padding:10px 0;"><img src="images/publications/pub_sdatc.png" style="width:170px; height:120px; object-fit:contain;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:middle; padding:6px 10px 6px 0;"><img src="images/publications/pub_sdatc.png" style="width:170px; height:120px; object-fit:contain;"></td>
+<td style="vertical-align:top;" markdown="1">
 **Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**
 <br>
 **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang, Ruiqin Xiong
@@ -68,8 +73,8 @@ My research focuses on **low-level vision**, including image/video generation, s
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:top;"></td>
+<td style="vertical-align:top;" markdown="1">
 **FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution**
 <br>
 **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang
@@ -79,8 +84,8 @@ My research focuses on **low-level vision**, including image/video generation, s
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:top;"></td>
+<td style="vertical-align:top;" markdown="1">
 **Perception-Oriented Omnidirectional Image Super-Resolution Based on Transformer Network**
 <br>
 **Hongyu An**, Xinfeng Zhang
@@ -92,10 +97,10 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 ---
 
-<table style="border:none; border-collapse:collapse;">
+<table class="pub-table" style="border-collapse:collapse;">
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:top;"></td>
+<td style="vertical-align:top;" markdown="1">
 **SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization**
 <br>
 Gai Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
@@ -105,8 +110,8 @@ Gai Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:top;"></td>
+<td style="vertical-align:top;" markdown="1">
 **Enhancing Diagnostic Safety with Low Iodine, Low Radiation CTPA Classification Using Deep Learning**
 <br>
 Mingyao Hong, Tao Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
@@ -116,8 +121,8 @@ Mingyao Hong, Tao Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:top;"></td>
+<td style="vertical-align:top;" markdown="1">
 **Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered**
 <br>
 Jinfan Hu, Fanghua Yu, Zhiyuan You, Xiang Yin, **Hongyu An**, Xinqi Lin, Chao Dong, Jinjin Gu
@@ -127,8 +132,8 @@ Jinfan Hu, Fanghua Yu, Zhiyuan You, Xiang Yin, **Hongyu An**, Xinqi Lin, Chao Do
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
-<td style="border:none; vertical-align:top; padding:10px;" markdown="1">
+<td width="180" style="vertical-align:top;"></td>
+<td style="vertical-align:top;" markdown="1">
 **Expanded SPAN for Efficient Super-Resolution**
 <br>
 Qing Wang, Yang Wang, **Hongyu An**, Yi Liu, Liou Zhang, Shijie Zhao
