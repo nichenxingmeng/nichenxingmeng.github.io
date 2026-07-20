@@ -36,6 +36,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 <style>
 .pub-table td { border: none; padding: 6px 10px; }
 .pub-table td p { margin: 0; }
+.pub-table p { margin: 0 0 12px 0; }
 </style>
 
 <table class="pub-table" style="border-collapse:collapse;">
@@ -97,51 +98,33 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 ---
 
-<table class="pub-table" style="border-collapse:collapse;">
-<tr>
-<td width="180" style="vertical-align:top;"></td>
-<td style="vertical-align:top;" markdown="1">
+<div class="pub-table" markdown="1">
+
 **SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization**
 <br>
 Gai Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
 <br>
 *IEEE Transactions on Multimedia*, 2026 · [**Paper**](https://arxiv.org/abs/2510.15775)
-</td>
-</tr>
 
-<tr>
-<td width="180" style="vertical-align:top;"></td>
-<td style="vertical-align:top;" markdown="1">
 **Enhancing Diagnostic Safety with Low Iodine, Low Radiation CTPA Classification Using Deep Learning**
 <br>
 Mingyao Hong, Tao Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
 <br>
 *Scientific Reports*, 2026 · [**Paper**](https://www.nature.com/articles/s41598-026-38223-1)
-</td>
-</tr>
 
-<tr>
-<td width="180" style="vertical-align:top;"></td>
-<td style="vertical-align:top;" markdown="1">
 **Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered**
 <br>
 Jinfan Hu, Fanghua Yu, Zhiyuan You, Xiang Yin, **Hongyu An**, Xinqi Lin, Chao Dong, Jinjin Gu
 <br>
 *arXiv preprint arXiv:2603.00643*, 2026 · [**Paper**](https://arxiv.org/abs/2603.00643)
-</td>
-</tr>
 
-<tr>
-<td width="180" style="vertical-align:top;"></td>
-<td style="vertical-align:top;" markdown="1">
 **Expanded SPAN for Efficient Super-Resolution**
 <br>
 Qing Wang, Yang Wang, **Hongyu An**, Yi Liu, Liou Zhang, Shijie Zhao
 <br>
 *Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR Workshop)*, 2025 · [**Paper**](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Wang_Expanded_SPAN_for_Efficient_Super-Resolution_CVPRW_2025_paper.html)
-</td>
-</tr>
-</table>
+
+</div>
 
 # 🏆 Competitions
 - CVPR Workshops & NTIRE 2024 Challenge on Image Super-Resolution (×4), **3rd**.
