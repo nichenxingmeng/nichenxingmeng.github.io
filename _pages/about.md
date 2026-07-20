@@ -28,6 +28,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 </div>
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 One paper on omnidirectional image super-resolution is accepted by **ECCV 2026**.
 - *2026.02*: &nbsp;🎉 One paper on omnidirectional video super-resolution is accepted by **AAAI 2026**.
 
 # 📝 Publications 
@@ -36,7 +37,7 @@ My research focuses on **low-level vision**, including image/video generation, s
   <br>
   **Hongyu An**, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong
   <br>
-  **arXiv preprint arXiv:2606.29314**, 2026
+  **European Conference on Computer Vision (ECCV)**, 2026
   <br>
   [[Paper]](https://arxiv.org/abs/2606.29314) [[Code]](https://github.com/nichenxingmeng/D2R2OSR)
 
