@@ -74,7 +74,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 <tr>
 <td width="180" style="border:none; vertical-align:top; padding:10px 0;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
-**FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution**
+**[FATO: Frequency Attention Transformer for Omnidirectional Image Super-Resolution](https://dl.acm.org/doi/full/10.1145/3696409.3700232)**
 <br>
 **Hongyu An**, Xinfeng Zhang, Shijie Zhao, Li Zhang
 <br>
