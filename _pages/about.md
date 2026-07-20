@@ -35,7 +35,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 
 <table style="border:none; border-collapse:collapse;">
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_d2r2osr.png" width="170"></td>
+<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_d2r2osr.png" style="width:170px; height:120px; object-fit:contain;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
 **[D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution](https://arxiv.org/abs/2606.29314)**
 <br>
@@ -48,7 +48,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_stdan.png" width="170"></td>
+<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_stdan.png" style="width:170px; height:120px; object-fit:contain;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
 **[Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution](https://arxiv.org/abs/2410.11506)**
 <br>
@@ -61,7 +61,7 @@ My research focuses on **low-level vision**, including image/video generation, s
 </tr>
 
 <tr>
-<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_sdatc.png" width="170"></td>
+<td width="180" style="border:none; vertical-align:top; padding:10px 0;"><img src="images/publications/pub_sdatc.png" style="width:170px; height:120px; object-fit:contain;"></td>
 <td style="border:none; vertical-align:top; padding:10px;" markdown="1">
 **[Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution](https://arxiv.org/abs/2502.07381)**
 <br>
