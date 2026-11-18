@@ -28,7 +28,7 @@ My research focuses on **low-level vision**, including image/video generation, e
 </div>
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 Two papers are accepted by **NeurIPS 2026**: one on video restoration (Main Track) and one position paper on visual processing evaluation (Position Paper Track).
+- *2026.12*: &nbsp;🎉 Two papers are accepted by **NeurIPS 2026**: one on video restoration (Main Track) and one position paper on visual processing evaluation (Position Paper Track).
 - *2026.09*: &nbsp;🎉 One paper on omnidirectional image super-resolution is accepted by **ECCV 2026**.
 - *2026.02*: &nbsp;🎉 One paper on omnidirectional video super-resolution is accepted by **AAAI 2026**.
 
@@ -41,6 +41,17 @@ My research focuses on **low-level vision**, including image/video generation, e
 </style>
 
 <table class="pub-table" style="border-collapse:collapse;">
+<tr>
+<td width="180" style="vertical-align:middle; padding:6px 10px 6px 0;"><img src="images/publications/pub_hypvr.png" style="width:170px; height:90px; object-fit:contain;"></td>
+<td style="vertical-align:top;" markdown="1">
+**Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration**
+<br>
+Fanghua Yu, **Hongyu An**, Jinfan Hu, Xinqi Lin, Zhiyuan You, Jian Wang, Hongyang Li, Chao Dong, Jinjin Gu
+<br>
+*Conference on Neural Information Processing Systems (NeurIPS)*, 2026 · [**Paper**](https://arxiv.org/abs/2611.22874) | [**Project**](https://super-generative-prior.github.io/papers/hypvr.html)
+</td>
+</tr>
+
 <tr>
 <td width="180" style="vertical-align:middle; padding:6px 10px 6px 0;"><img src="images/publications/pub_d2r2osr.png" style="width:170px; height:90px; object-fit:contain;"></td>
 <td style="vertical-align:top;" markdown="1">
@@ -100,12 +111,6 @@ My research focuses on **low-level vision**, including image/video generation, e
 ---
 
 <div class="pub-table" markdown="1">
-
-**Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration**
-<br>
-Fanghua Yu, **Hongyu An**, Jinfan Hu, Xinqi Lin, Zhiyuan You, Jian Wang, Hongyang Li, Chao Dong, Jinjin Gu
-<br>
-*Conference on Neural Information Processing Systems (NeurIPS)*, 2026 · [**Paper**](https://arxiv.org/abs/2611.22874) | [**Project**](https://super-generative-prior.github.io/papers/hypvr.html)
 
 **Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered**
 <br>
