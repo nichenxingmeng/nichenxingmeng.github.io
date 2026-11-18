@@ -28,7 +28,7 @@ My research focuses on **low-level vision**, including image/video generation, e
 </div>
 
 # 🔥 News
-- *2026.12*: &nbsp;🎉 Two papers are accepted by **NeurIPS 2026**: one on video restoration (Main Track) and one position paper on visual processing evaluation (Position Paper Track).
+- *2026.12*: &nbsp;🎉 One paper on video restoration is accepted by **NeurIPS 2026**.
 - *2026.09*: &nbsp;🎉 One paper on omnidirectional image super-resolution is accepted by **ECCV 2026**.
 - *2026.02*: &nbsp;🎉 One paper on omnidirectional video super-resolution is accepted by **AAAI 2026**.
 
