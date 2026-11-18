@@ -100,6 +100,18 @@ My research focuses on **low-level vision**, including image/video generation, e
 
 <div class="pub-table" markdown="1">
 
+**Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration**
+<br>
+Fanghua Yu, **Hongyu An**, Jinfan Hu, Xinqi Lin, Zhiyuan You, Jian Wang, Hongyang Li, Chao Dong, Jinjin Gu
+<br>
+*Conference on Neural Information Processing Systems (NeurIPS)*, 2026 · [**Paper**](https://arxiv.org/abs/2611.22874) | [**Project**](https://super-generative-prior.github.io/papers/hypvr.html)
+
+**Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered**
+<br>
+Fanghua Yu, Jinfan Hu, Zhiyuan You, Xiang Yin, **Hongyu An**, Xinqi Lin, Hongyang Li, Chao Dong, Jinjin Gu
+<br>
+*Conference on Neural Information Processing Systems (NeurIPS)*, Position Paper Track, 2026 · [**Paper**](https://arxiv.org/abs/2603.00643)
+
 **SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization**
 <br>
 Gai Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
@@ -111,12 +123,6 @@ Gai Zhang, Xinfeng Zhang, Lv Tang, **Hongyu An**, Li Zhang, Qingming Huang
 Mingyao Hong, Tao Gu, **Hongyu An**, Xu Fan, Xinfeng Zhang
 <br>
 *Scientific Reports*, 2026 · [**Paper**](https://www.nature.com/articles/s41598-026-38223-1)
-
-**Position: Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered**
-<br>
-Jinfan Hu, Fanghua Yu, Zhiyuan You, Xiang Yin, **Hongyu An**, Xinqi Lin, Chao Dong, Jinjin Gu
-<br>
-*arXiv preprint arXiv:2603.00643*, 2026 · [**Paper**](https://arxiv.org/abs/2603.00643)
 
 **Expanded SPAN for Efficient Super-Resolution**
 <br>
